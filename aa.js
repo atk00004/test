@@ -1,1 +1,3 @@
 AuthenticatorAssertionResponse
+
+AuthenticatorAssertionResponse
